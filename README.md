@@ -33,4 +33,3 @@ This theme is designed with the following principles:
 **Enjoy coding with Unsafe Dark!**
 
 Developed by **UnsafeZero** - [priyanxhu.me](https://priyanxhu.me)
-# UnsafeDark

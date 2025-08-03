@@ -1,0 +1,48 @@
+{
+  "name": "unsafe-dark",
+  "displayName": "Unsafe Dark",
+  "description": "A sleek, modern dark theme with neutral backgrounds",
+  "version": "0.0.1",
+  "publisher": "UnsafeZero",
+  "author": {
+    "name": "UnsafeZero",
+    "url": "https://priyanxhu.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unsafe0x0/UnsafeDark"
+  },
+  "homepage": "https://priyanxhu.me",
+  "bugs": {
+    "url": "https://github.com/unsafe0x0/UnsafeDark/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "color theme",
+    "neutral",
+    "modern",
+    "professional"
+  ],
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unsafe Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Unsafe Dark-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  }
+}
