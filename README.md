@@ -9,16 +9,16 @@ A sleek, modern dark theme for Visual Studio Code inspired by contemporary desig
 
 ## Installation
 
-1. Open Visual Studio Code
+1. Open Visual Studio Code (or any VS Code fork such as VSCodium)
 2. Go to Extensions (Ctrl+Shift+X)
 3. Search for "Unsafe Dark"
 4. Click Install
 5. Go to File > Preferences > Color Theme
 6. Select "Unsafe Dark"
 
-## Screenshots
+## Screenshot
 
-*Screenshots coming soon*
+![Screenshot](assets/image.png)
 
 ## Development
 
