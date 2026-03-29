@@ -2,17 +2,17 @@
   "name": "unsafe-dark",
   "displayName": "Unsafe Dark",
   "description": "A sleek, modern dark theme with neutral backgrounds",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "UnsafeZero",
   "author": {
     "name": "UnsafeZero",
-    "url": "https://priyanxhu.me"
+    "url": "https://priyanshuchahar.vercel.app"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/unsafe0x0/UnsafeDark"
   },
-  "homepage": "https://priyanxhu.me",
+  "homepage": "https://priyanshuchahar.vercel.app",
   "bugs": {
     "url": "https://github.com/unsafe0x0/UnsafeDark/issues"
   },
@@ -26,7 +26,7 @@
     "professional"
   ],
   "engines": {
-  "vscode": "^1.x.x"
+    "vscode": "^1.x.x"
   },
   "categories": [
     "Themes"
